@@ -1,0 +1,1 @@
+if(!window['googleNDT_']){window['googleNDT_']=(new Date()).getTime();}window.googleAltLoader=2;(function(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src='//www.google.com/ads/search/module/ads/3.0/9cd85c26aa34037de8ac499c524b6ea668cb0d4e/n/search.js';var f=document.getElementsByTagName('script')[0];f.parentNode.insertBefore(s,f);})();

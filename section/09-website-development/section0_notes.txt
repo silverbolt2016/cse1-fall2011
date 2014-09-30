@@ -1,0 +1,5 @@
+id
+There should only be one tag within a document with a particular id.
+
+class
+There can be many tags with the same class within the same document

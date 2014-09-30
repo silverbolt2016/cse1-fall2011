@@ -1,0 +1,8 @@
+the browser ignores all but the first space
+
+css is case sensitive
+html is not case sensitive
+
+however just use lower case for consistency
+
+<span> tag does not create a line break
